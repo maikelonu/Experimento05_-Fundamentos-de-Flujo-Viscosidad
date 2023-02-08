@@ -12,7 +12,6 @@
 # https://www.scopus.com/authid/detail.uri?authorId=51665581300
 # https://scholar.google.com/citations?user=JnmSVFYAAAAJ&hl=en
 # https://www.youtube.com/c/maikelmendez
-# https://twitter.com/MaikelMendezM
 # https://github.com/maikelonu
 # //////////////////////////////////////////////////////////////////////////////////
 

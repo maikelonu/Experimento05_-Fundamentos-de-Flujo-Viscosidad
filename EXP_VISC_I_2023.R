@@ -29,7 +29,7 @@
 rm(list = ls())
 
 # Working directory is selected
-setwd("/mnt/BACKUP/R_ITC/R_LABHYD/EXP_DEN")
+setwd("/home/shoe/Downloads/LABHYD_Exp_05_Viscosidad_Cinamatica-master")
 
 # CRAN libraries are loaded
 # require(Agreement)
